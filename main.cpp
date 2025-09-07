@@ -1,7 +1,8 @@
 //
 //  main.cpp
 //  Lab 4 A
-//
+// COMSC-210 | Lab 4A | Mehraj Hasan Nafi
+// IDE used: XCode
 //  Created by Nafi on 9/6/25.
 //
 
